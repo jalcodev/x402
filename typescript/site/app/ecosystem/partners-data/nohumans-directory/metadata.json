@@ -1,0 +1,7 @@
+{
+  "name": "nohumans.directory",
+  "description": "Probe-verified directory of paid x402 APIs and datasets. Every listing is re-checked every 15 minutes against its live 402 challenge — verified status is earned through continuous probing, not self-reported. Outcome reports require a real on-chain tx_hash before they count.",
+  "logoUrl": "/logos/nohumans-directory.png",
+  "websiteUrl": "https://nohumans.directory",
+  "category": "Infrastructure & Tooling"
+}
